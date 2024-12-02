@@ -36,7 +36,6 @@ while True:
         print("Exceeded the number of guesses")
         break
     print(lives)
-    displayTemp=display
     if "_" not in display:
         print("Game won!")
         break
