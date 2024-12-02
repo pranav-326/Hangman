@@ -8,7 +8,6 @@ print(blankLetters)
 lives=6
 correctLetters=[]
 wrongLetters=[]
-displayTemp=blankLetters
 while True:
     display=""
     userInput=input('Enter a letter:').lower()
