@@ -2,7 +2,6 @@ import random
 import wordList
 import stages
 randChoice=random.choice(wordList.word_list)
-# print(randChoice)
 blankLetters="_"*len(randChoice)
 print(blankLetters)
 lives=6
