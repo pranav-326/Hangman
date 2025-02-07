@@ -34,6 +34,7 @@ while True:
     print(stages.stages[lives])
     if lives==0:
         print("Exceeded the number of guesses")
+        print(randChoice)
         break
     print(lives)
     if "_" not in display:
