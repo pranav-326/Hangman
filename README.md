@@ -3,4 +3,4 @@
 I hope you have as much fun while playing as to me coding this, enjoy!!!
 
 
-To play download the files and run hangman.py
+To play repository by heading into dropdown menu next to "Code" and download zip, unzip the file and run hangman.py
